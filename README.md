@@ -1,1 +1,1 @@
-# Strong-PORTFOLIO
+"In my portfolio, I have a strong collection of projects in Python, Power BI, and Excel operations. These projects demonstrate my versatility in developing innovative Python applications, creating interactive data visualizations with Power BI, and efficiently manipulating and analyzing data using advanced Excel functions."
